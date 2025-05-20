@@ -7,7 +7,7 @@
 
 ### Team Members
 1. *Khusbu Banjade (khusbubanjade)*
-2. *Aakriti Devkota (GitHub Username)*
+2. *Aakriti Devkota (Akr3ty)*
 
 ### Task Division
 - **Member 1**: *Describe tasks assigned (e.g., data analysis and EDA)*
