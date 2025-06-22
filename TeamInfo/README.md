@@ -8,7 +8,7 @@
 ### Team Members
 1. *Khusbu Banjade (khusbubanjade)*
 2. *Aakriti Devkota (Akr3ty)*
-3. *Prasamsha Karki ()*
+3. *Prasamsha Karki (prasamshakarki)*
 
 ### Task Division
 - **Member 1**: *Describe tasks assigned (e.g., data analysis and EDA)*
